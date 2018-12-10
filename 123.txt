@@ -1,3 +1,7 @@
 echo "Hello"
 echo "hello"
+<<<<<<< HEAD
 echo "Test"
+=======
+echo "hello"
+>>>>>>> 80807f098e61916665906ff8208cd082e736f7de
